@@ -16,7 +16,7 @@ I have worked on a variety of projects ranging from web applications to cloud-ba
 I'm currently diving deeper into cloud-native architectures and exploring the world of machine learning and AI.
 
 ## 📫 How to Reach Me
-- Email: brunocgc@example.com
+- Email: brunocgc@nvn.plus
 - LinkedIn: [linkedin.com/in/brunocgc](https://linkedin.com/in/brunocgc)
 - Twitter: [@brunocgc](https://twitter.com/brunocgc)
 
