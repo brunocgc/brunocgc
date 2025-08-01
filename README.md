@@ -4,10 +4,10 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, TypeScript, Python, Java, C#
-- **Frontend:** React, Angular, Vue.js, HTML, CSS
-- **Backend:** Node.js, Express, Django, Spring Boot, .NET
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Azure
+- **DevOps:** Docker, GitHub Actions, AWS
 
 ## 💼 Professional Experience
 I have worked on a variety of projects ranging from web applications to cloud-based solutions. My professional journey has equipped me with a deep understanding of software development best practices and the ability to deliver high-quality code.
@@ -29,8 +29,8 @@ I'm currently diving deeper into cloud-native architectures and exploring the wo
 ## 🚀 Projects
 Here are a few projects I've worked on:
 
-- [**Project Name**](https://github.com/brunocgc/project-name): Brief description of the project.
-- [**Another Project**](https://github.com/brunocgc/another-project): Brief description of the project.
+- [**Landing Page Portfolio**](https://github.com/brunocgc/landingPageLayout): A simple landing page for UOL.
+- [**L2iTeam**](https://github.com/brunocgc/another-project): Lineage 2 Server based on L2j.
 
 Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
 
